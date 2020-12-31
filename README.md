@@ -1,7 +1,8 @@
 # Red-Wine-Quality-Prediction
 End to End Red Wine prediction WebApp
 
-## Demo [< Click here to Check Webapp >](https://red-wine-quality-prediction.herokuapp.com/)
+## Demo 
+[< Click here to Check Webapp >](https://red-wine-quality-prediction.herokuapp.com/)
 ![alt text](https://raw.githubusercontent.com/injemamul/Red-Wine-Quality-Prediction/main/static/images/Screenshot%20from%202020-12-31%2018-11-49.png)
 
 ## Machine Learning
